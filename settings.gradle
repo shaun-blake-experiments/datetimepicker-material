@@ -1,4 +1,4 @@
-include ':sample-hour-minute-picker-app', 'hour-minute-picker'
+include ':sample-datetimepicker-material-app', 'datetimepicker-material'
 
 include ':commonresources'
 project(':commonresources').projectDir = new File(settingsDir, '../common-android-resources/commonresources')
